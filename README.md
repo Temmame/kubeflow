@@ -68,7 +68,7 @@ From shell :
 - `MODEL_VERSION='<model_version>'`
 - `PROJECT_ID='<project_id>'`
 - `cd ai-platform`
-- `gcloud config set account <xxxxx@rd.loreal.com>`
+- `gcloud config set account <xxxxx@gmail.com>`
 
 There are two options, and a test file for each. Both are also launched from shell. You can use one of those two options :
 
